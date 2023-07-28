@@ -1,12 +1,13 @@
 ---
-title: "BalancePlate"
+title: "BalancePlate Design Portfolio"
 layout: post
 date: 2023-07-24 22:44
 image: /assets/images/egg-and-avocado-yin-yang.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- CS449
+- uWaterloo
+- HCI
 star: true
 category: blog
 author: Edward-J-Xu
