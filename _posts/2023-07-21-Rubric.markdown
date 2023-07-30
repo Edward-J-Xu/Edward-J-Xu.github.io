@@ -1,7 +1,7 @@
 ---
-title: "BalancePlate Design Portfolio Rubric"
+title: "Design Portfolio Rubric"
 layout: post
-date: 2023-07-24 22:44
+date: 2023-07-21 11:52
 image: /assets/images/egg-and-avocado-yin-yang.jpg
 headerImage: true
 tag:
@@ -11,7 +11,7 @@ tag:
 star: true
 category: blog
 author: Edward-J-Xu
-description: Our CS449 Project
+description: Design Portfolio Rubric
 ---
 
 # (1) Describe your value proposition and project goal
