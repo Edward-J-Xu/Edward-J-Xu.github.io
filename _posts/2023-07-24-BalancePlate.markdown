@@ -59,13 +59,26 @@ Our project primarily focuses on addressing the lack of time and support by prov
 
 These user groups represent the diverse audience that our app targets. By addressing the needs and preferences of each group, we aim to create a comprehensive and user-friendly platform that caters to a wide range of health-conscious individuals.
 
-1. University Students - Persona: John
-   ![John's Persona](link_to_john_persona_image)
+Customer Profile:
+![Customer Profile](/assets/images/empathy/customer.png)
 
-2. Working Professionals - Persona: Emily
-   ![Emily's Persona](link_to_emily_persona_image)
+1. Meet David Tao
+   ![David's Persona](/assets/images/personas/David.png)
+   ![David's Empathy Map](/assets/images/empathy/David.png)
 
-**John's Empathy Map:**
+2. Meet Miki Nakai
+   ![Miki's Persona](/assets/images/personas/Miki.png)
+   ![Miki's Empathy Map](/assets/images/empathy/Miki.png)
+   
+3. Meet Roger Yi
+   ![Roger's Persona](/assets/images/personas/Roger.png)
+   ![Roger's Empathy Map](/assets/images/empathy/Roger.png)
+   
+4. Meet Serena Thompson
+   ![Serena's Persona](/assets/images/personas/Serena.png)
+   ![Serena's Empathy Map](/assets/images/empathy/Serena.png)
+
+<!-- **John's Empathy Map:**
 
 - Goals: Maintain a healthy lifestyle, excel academically, stay motivated in adopting healthier habits.
 - Needs: Convenient meal planning and nutritious recipes, support from like-minded peers, time-efficient workouts.
@@ -75,7 +88,7 @@ These user groups represent the diverse audience that our app targets. By addres
 
 - Goals: Manage work-life balance, stay physically active, adopt a healthier diet.
 - Needs: Quick and easy meal preparation, access to reliable nutrition information, motivation to continue a healthy lifestyle.
-- Pain Points: Hectic work schedule, occasional stress eating, difficulty finding time for workouts.
+- Pain Points: Hectic work schedule, occasional stress eating, difficulty finding time for workouts. -->
 
 # (3) User Interviews
 
@@ -87,7 +100,17 @@ We conducted user interviews with 8 individuals from our target market segment. 
 
 For the user interviews, we prepared a set of open-ended questions focused on understanding the participants' dietary habits, time constraints, challenges in maintaining a healthy lifestyle, and their expectations from a health and wellness app. We conducted one-on-one interviews to gather qualitative data and valuable insights.
 
+Cutural Model:
+![Cutural Model](/assets/images/diagrams/cm.png)
+
 To analyze the interview data, we used affinity diagramming to organize and categorize the interviewees' responses into key themes and patterns. We also employed work models to visualize users' mental models and understand their thought processes while making healthy lifestyle choices.
+
+Affinity Diagrams in Class:
+![Affinity Diagrams in Class](/assets/images/diagrams/ad_class.png)
+![Affinity Diagrams in Class 2](/assets/images/diagrams/ad_class2.png)
+
+Final Affinity Diagram:
+![Affinity Diagrams](/assets/images/diagrams/ad_2.png)
 
 **Interview Results:**
 
@@ -123,6 +146,22 @@ Based on these interview results, we decided to focus on addressing the time con
 
 The initial set of features was developed based on user stories and storyboarding from the insights gathered during the user interviews. We aimed to address the identified problems and meet user needs effectively.
 
+User Stories and Storyboarding 1:
+![Affinity Diagrams](/assets/images/stories/1.png)
+
+User Stories and Storyboarding 2:
+![Affinity Diagrams](/assets/images/stories/2.png)
+
+User Stories and Storyboarding 3:
+![Affinity Diagrams](/assets/images/stories/3.png)
+
+User Stories and Storyboarding 4:
+![Affinity Diagrams](/assets/images/stories/4.png)
+
+
+Brainstorm Result:
+![Affinity Diagrams](/assets/images/diagrams/brainstorm.png)
+
 1. Meal Planning and Grocery Helper: Users can access personalized meal plans and recipes that align with their dietary preferences and health goals. The feature includes an automated grocery list to simplify shopping and minimize food waste.
 
 2. Personalized Recommendations and Information: This feature offers customized recommendations for meal plans, workout routines, and lifestyle tips based on individual goals and health conditions.
@@ -133,13 +172,18 @@ The initial set of features was developed based on user stories and storyboardin
 
 **Initial Design Artifacts:**
 1. Paper Prototypes: We created paper prototypes for each feature, showcasing the app's user interface and flow. These prototypes were used to gather feedback and validate design choices.
+    ![Paper Prototypes](/assets/images/apps/paper_prototype.jpg)
 
 2. User Flows: User flows were designed to illustrate the navigation paths and interactions within the app for seamless user experience.
+    ![User Flow](/assets/images/apps/paper_user_flow.png)
 
 3. Sketches: Hand-drawn sketches depicted the layout and visual elements of the app, providing a clear visual representation of the design concepts.
-
-Images of Paper Prototypes, User Flows, and Sketches:
-(Insert links to images of paper prototypes, user flows, and sketches here. Ensure that the images are stored and accessible for reference.)
+    ![Sketches](/assets/images/apps/sketch1.png)
+    ![Sketches](/assets/images/apps/sketch2.png)
+    ![Sketches](/assets/images/apps/sketch3.png)
+    ![Sketches](/assets/images/apps/sketch4.png)
+    ![Sketches](/assets/images/apps/sketch5.png)
+    ![Sketches](/assets/images/apps/sketch6.png)
 
 The initial design ideas were influenced by the interview results, where we focused on providing a user-friendly interface, efficient meal planning, personalized recommendations, and a sense of community support to address the identified problems and meet user expectations.
 
@@ -193,21 +237,55 @@ Possible Reasons for Identified Problems in Design:
 
 **Evolving Design Screenshots:**
 
-![Feature 1 - Updated Navigation](link_to_updated_feature_1.png)
-_In this screenshot, we have added visual cues and instructions on planning daily meals as the first step to enhance navigation clarity in Feature 1._
+![Refiene](/assets/images/apps/refine1.png)
 
-![Feature 3 - Expanded Filtering Options](link_to_updated_feature_3.png)
-_In this screenshot, we have expanded the filtering options in Feature 3, providing users with more choices for exploring health events and classes._
+_Larger View More_
 
-![Feature 4 - Improved Font and Text Clarity](link_to_updated_feature_4.png)
-_In this screenshot, we have increased the font size in Feature 4 to improve readability. Emphasized "next-step" buttons provide clear directions for users._
+![Refiene](/assets/images/apps/refine2.png)
 
-![Feature 1 and 2 Integration](link_to_feature_1_2_integration.png)
-_In this screenshot, we have explored integrating personalized meal plans from Feature 2 into the nutrition tracker in Feature 4, providing seamless tracking and real-time updates._
+_More intuitive nutrition tracking page_
+
+![Refiene](/assets/images/apps/refine3.png)
+
+_Automatically add all ingredients_
+
+![Refiene](/assets/images/apps/refine4.png)
+
+_Swipe down to go back_
+
+![Refiene](/assets/images/apps/refine5.png)
+
+_Removed Duplicate Personalize page from Meal Planning Feature_
 
 By iterating on the design based on the paper prototype evaluation results, we aim to enhance the app's usability, engagement, and overall user experience to better meet user needs and expectations.
 
 # (7) High Fidelity Prototypes and Evaluation
+
+**Draft High Fidelity Prototype**
+
+Overview:
+
+![High Fidelity](/assets/images/apps/high0.png)
+
+Login:
+
+![High Fidelity](/assets/images/apps/high5.png)
+
+Feature1:
+
+![High Fidelity](/assets/images/apps/high1.png)
+
+Feature2:
+
+![High Fidelity](/assets/images/apps/high2.png)
+
+Feature3:
+
+![High Fidelity](/assets/images/apps/high3.png)
+
+Feature4:
+
+![High Fidelity](/assets/images/apps/high4.png)
 
 **Goals of High Fidelity Prototype Evaluation Study:**
 
@@ -261,6 +339,30 @@ Based on the high fidelity evaluation, the following design changes are required
 3. Visual Enhancements. We will fine-tune the aesthetics of the app, incorporating additional visual elements, color schemes, and icons to create a more engaging and appealing user interface.
 
 4. Error Handling and Feedback. We will enhance the error handling and feedback mechanisms to ensure that users receive clear and informative messages in case of any issues during app interactions.
+
+Updated Feature1:
+
+![High Fidelity](/assets/images/apps/final1.png)
+
+Updated Feature2:
+
+![High Fidelity](/assets/images/apps/final2.1.png)
+![High Fidelity](/assets/images/apps/final2.2.png)
+
+Updated Feature3:
+
+![High Fidelity](/assets/images/apps/final3.1.png)
+![High Fidelity](/assets/images/apps/final3.2.png)
+
+Updated Feature4:
+
+![High Fidelity](/assets/images/apps/final4.1.png)
+![High Fidelity](/assets/images/apps/final4.2.png)
+![High Fidelity](/assets/images/apps/final4.3.png)
+
+**Interactive Prototype:**
+
+[Click Here to Play](https://www.figma.com/proto/cBuTBfcJyetOjru8nDto4q/449-High-Fidelity-Prototype?type=design&node-id=68-391&t=2GXxw7Ejnd0dllQ8-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=68%3A391)
 
 
 # (8) Conclusion
