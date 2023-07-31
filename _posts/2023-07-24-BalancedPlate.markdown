@@ -1,5 +1,5 @@
 ---
-title: "BalancePlate Design Portfolio"
+title: "BalancedPlate Design Portfolio"
 layout: post
 date: 2023-07-24 22:44
 image: /assets/images/egg-and-avocado-yin-yang.jpg
@@ -14,7 +14,7 @@ author: Edward-J-Xu
 description: Our CS449 Project
 ---
 
-# (1) Describe your value proposition and project goal
+# Describe your value proposition and project goal
 
 **Value Proposition:**
 
@@ -47,7 +47,7 @@ We identified the following problems and empty niches that our app seeks to addr
 
 Our project primarily focuses on addressing the lack of time and support by providing efficient meal planning and grocery assistance, personalized recommendations, and a vibrant community. Through these features, we aim to help users overcome the challenges of maintaining healthy habits and cultivate a more balanced lifestyle.
 
-# (2) Product Anticipated Users
+# Product Anticipated Users
 
 **User Groups:**
 
@@ -90,7 +90,7 @@ Customer Profile:
 - Needs: Quick and easy meal preparation, access to reliable nutrition information, motivation to continue a healthy lifestyle.
 - Pain Points: Hectic work schedule, occasional stress eating, difficulty finding time for workouts. -->
 
-# (3) User Interviews
+# User Interviews
 
 **Interviewees:**
 
@@ -140,7 +140,7 @@ Problems Identified:
 
 Based on these interview results, we decided to focus on addressing the time constraints and motivation/support aspects through efficient meal planning, personalized recommendations, and a vibrant community in our initial design.
 
-# (4) Initial Design Ideas
+# Initial Design Ideas
 
 **Initial Set of Features:**
 
@@ -187,7 +187,7 @@ Brainstorm Result:
 
 The initial design ideas were influenced by the interview results, where we focused on providing a user-friendly interface, efficient meal planning, personalized recommendations, and a sense of community support to address the identified problems and meet user expectations.
 
-# (5) Paper prototypes and evaluation
+# Paper prototypes and evaluation
 
 **Goals and Hypotheses:**
 
@@ -224,7 +224,7 @@ Possible Reasons for Identified Problems in Design:
 - Small fonts and dense text in Feature 4 could have caused difficulties in readability and next-step identification.
 - The need for more explicit visual cues in Feature 1 might have improved user engagement and recipe discovery.
 
-# (6) Design Iteration
+# Design Iteration
 
 **Design Changes Based on Evaluation Results:**
 1. Feature 1: To address the issue of navigation clarity, we will add explicit visual cues and instructions on planning daily meals as the first step. This will help users understand the importance of meal planning and encourage them to utilize the full potential of the app's features.
@@ -259,7 +259,7 @@ _Removed Duplicate Personalize page from Meal Planning Feature_
 
 By iterating on the design based on the paper prototype evaluation results, we aim to enhance the app's usability, engagement, and overall user experience to better meet user needs and expectations.
 
-# (7) High Fidelity Prototypes and Evaluation
+# High Fidelity Prototypes and Evaluation
 
 **Draft High Fidelity Prototype**
 
@@ -365,7 +365,7 @@ Updated Feature4:
 [Click Here to Play](https://www.figma.com/proto/cBuTBfcJyetOjru8nDto4q/449-High-Fidelity-Prototype?type=design&node-id=68-391&t=2GXxw7Ejnd0dllQ8-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=68%3A391)
 
 
-# (8) Conclusion
+# Conclusion
 
 Reflecting on the design process, our app has made significant strides in addressing the problems and empty niches we identified at the beginning of the term. We successfully targeted the market segment of health-conscious individuals seeking a holistic approach to wellness, combining healthy habits, recipes, and community engagement.
 
