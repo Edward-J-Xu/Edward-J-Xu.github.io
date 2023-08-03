@@ -362,7 +362,7 @@ Updated Feature4:
 
 **Interactive Prototype:**
 
-[Click Here to Play](https://www.figma.com/proto/cBuTBfcJyetOjru8nDto4q/449-High-Fidelity-Prototype?type=design&node-id=68-391&t=2GXxw7Ejnd0dllQ8-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=68%3A391)
+[Click Here to Play](https://www.figma.com/proto/cBuTBfcJyetOjru8nDto4q/449-High-Fidelity-Prototype?type=design&node-id=68-391&t=VcmPyv2fH2Rt2k7L-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=68%3A391)
 
 
 # Conclusion
